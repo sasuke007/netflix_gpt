@@ -1,7 +1,6 @@
 import Login from "./Login.jsx";
 import {createBrowserRouter, RouterProvider} from "react-router-dom";
 import Browse from "./Browse.jsx";
-import app from "../App.jsx";
 
 const Body = () => {
 
